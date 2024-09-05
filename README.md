@@ -21,7 +21,7 @@ Step-2.Data Preparation
 ```py
 /*
 Program to implement the multivariate linear regression model for predicting the price of the house and number of occupants in the house with SGD regressor.
-Developed by: ALLEN JOVETH P 
+Developed by: ALLEN JOVETH P
 RegisterNumber:  212223240007
 */
 import pandas as pd
